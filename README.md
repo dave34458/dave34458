@@ -1,72 +1,70 @@
 <h1 align="center">Hi, I'm vinson 👋</h1>
 
 <p align="center">
-  🎓 BS-Information Systems @ <b>DLS-CSB</b><br>
-  💡 Former full scholar in Electrical Engineering @ Mapúa. Transferred bcs i hate EE</b><br>
+  🎓 BS Information Systems @ <b>DLS-CSB</b><br>
+  💡 Former full scholar in Electrical Engineering @ Mapúa (transferred because I hated EE)</b><br>
   🎵 Musician • Audio Engineer • Session Guitarist
 </p>
 
 ---
 
-## 🚀 Boring Coding Stuff
-If you’ve stumbled onto my profile, congrats kasi nahanap mo ang OTs. iykyk.
+## 🚀 Coding Stuff
+Congratulations. You found the OTs.  
 
-This profile just contains **final projects**, assignments, and others for uni.  
+This profile is basically a dump of **final projects, assignments, and uni work**.  
 
-> ⚠️ Honest disclaimer: I **hate coding sm**. This is more like my school stuff rather than a portfolio.  
-> *"eh bat ka nag Information Systems?"* kasi **di ako pinayagan mag music**.  
+> ⚠️ Disclaimer: I **hate coding**. This is more of a school archive than a portfolio.  
+> *“eh bat ka nag Information Systems?”* kasi di ako pinayagan mag music.  
 
-All of the projects here were **done solo**.  
+All projects here were **done solo**.  
 
 ---
 
-## 🖥️ Boring Coding Languages & Skills
+## 🖥️ Coding Skills
 - Python, C#, JavaScript, HTML, CSS  
-- SQL
+- SQL  
 - .NET, Django, Kotlin, Google Colab  
 - Git/GitHub  
-- Problem Solving (LeetCode)  
+- Problem-Solving (LeetCode)  
 
 ---
 
 ## 🎶 Music  
-
-I’d rather you check out my **music portfolio** than boring coding stuff.  
-Outside of school, I make music:  
+This is what I actually care about. Outside school, I make music:  
 
 🎚️ Mixing & Mastering Engineer  
 🎸 Session Guitarist  
-🎛️ Freelance Audio Production & Engineering  
+🎛️ Freelance Audio Producer & Engineer  
 
-I started learning the **guitar in 2016**, got into **music production in 2020** through OSTs, and now work freelance.  
+Started guitar in **2016**, music production in **2020** (thanks to OSTs), now freelancing.  
 
 ---
 
-### 🥁 Skills in Music  
+### 🥁 Music Skills  
 
 **Playing & Composing**  
-- Compose for pretty much anything.  
-- Advanced understanding of **music theory** (but can’t read 🤷)  
-- I play guitar (I play guitar) 🎸🔥  
+- Compose for almost anything  
+- Advanced music theory (but can’t sight-read 🤷)  
+- Guitarist 🎸  
 
 **Production & Engineering**  
-- DAWs I use: **FL Studio, Reaper, Cubase**  
-- I play, record, mix, and master my own tracks  
-- Experienced in both solo and collaborative projects  
+- DAWs: **FL Studio, Reaper, Cubase**  
+- Record, mix, and master my own tracks  
+- Work solo or collaborate  
 
 ---
 
 ### 🎧 Genres I Work With  
 
-- **Pop Family**: Pop, Pop Punk, City Pop (not even a real genre lol)  
-- **Rock Family**: Pop Rock, Hard Rock, Indie Rock, Alternative Rock, Progressive Rock, Blues Rock, New Wave, Math Rock, Country, Blues  
-- **Metal Family**: Heavy Metal, Thrash Metal, Nu Metal, Symphonic Metal, Metalcore  
-- **Jazz Family**: Jazz, Jazz Fusion, Cool Jazz, Bebop/Hot Jazz, Dixieland, Big Band, Latin Jazz, Funk, Gypsy Jazz, Modal Jazz, Bossa Nova  
-- **Others**: RnB, Neo Soul, Soul, Disco, Orchestral Music
+- **Pop**: Pop, Pop Punk, City Pop (this isn't even a genre)
+- **Rock**: Pop Rock, Hard Rock, Indie, Alternative, Progressive, Blues Rock, New Wave, Math Rock, Country, Blues  
+- **Metal**: Heavy, Thrash, Nu, Symphonic, Metalcore  
+- **Jazz**: Fusion, Cool, Bebop, Dixieland, Big Band, Latin, Funk, Gypsy, Modal, Bossa Nova  
+- **Others**: RnB, Neo-Soul, Soul, Disco, Orchestral  
 
 ---
 
-### 🎤 My Top 5 Artists (kahit wala nagtanong)
+### 🎤 Top 5 Artists (kahit wala nagtanong)
 - Patrick Bartley  
 - Mitsukiyo  
 - Anri  
@@ -75,7 +73,7 @@ I started learning the **guitar in 2016**, got into **music production in 2020**
 
 ---
 
-## 📫 Links
+## 📫 Links  
 
 <p align="left">
   <a href="https://youtube.com/vinsonja">
@@ -87,4 +85,4 @@ I started learning the **guitar in 2016**, got into **music production in 2020**
 </p>
 
 📧 Email: **snowhertz56@gmail.com**  
-💬 Discord: **vinsonja**
+💬 Discord: **vinsonja**  
