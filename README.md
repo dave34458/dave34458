@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Dump 👋</h1>
+<h1 align="center">Hi, I'm vinson 👋</h1>
 
 <p align="center">
   🎓 BS-Information Systems @ <b>DLS-CSB</b><br>
