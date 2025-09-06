@@ -59,10 +59,11 @@ I started learning the **guitar in 2016**, got into **music production in 2020**
 
 ### 🎧 Genres I Work With  
 
+- **Pop Family**: Pop, Pop Punk, City Pop (not even a real genre lol)  
 - **Rock Family**: Pop Rock, Hard Rock, Indie Rock, Alternative Rock, Progressive Rock, Blues Rock, New Wave, Math Rock, Country, Blues  
 - **Metal Family**: Heavy Metal, Thrash Metal, Nu Metal, Symphonic Metal, Metalcore  
-- **Jazz Family**: Jazz Fusion, Cool Jazz, Bebop/Hot Jazz, Dixieland, Big Band, Latin Jazz, Funk, Gypsy Jazz, Modal Jazz, Bossa Nova  
-- **Others**: RnB, Neo Soul, Soul, Orchestral Music  
+- **Jazz Family**: Jazz, Jazz Fusion, Cool Jazz, Bebop/Hot Jazz, Dixieland, Big Band, Latin Jazz, Funk, Gypsy Jazz, Modal Jazz, Bossa Nova  
+- **Others**: RnB, Neo Soul, Soul, Disco, Orchestral Music
 
 ---
 
