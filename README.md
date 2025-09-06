@@ -79,3 +79,14 @@ I started learning the **guitar in 2016**, got into **music production in 2020**
     <img src="https://img.shields.io/badge/Music-Portfolio-blueviolet?style=flat&logo=google-drive" />
   </a>
 </p>
+<p align="left">
+  <a href="https://youtube.com/vinsonja">
+    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1kbV6LXfhNRQyYN9jxK1g-dpZKGJ6ULbw?usp=sharing">
+    <img src="https://img.shields.io/badge/Music-Portfolio-blueviolet?style=flat&logo=google-drive" />
+  </a>
+</p>
+
+📧 Email: **snowhertz56@gmail.com**  
+💬 Discord: **vinsonja**
