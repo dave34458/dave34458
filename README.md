@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Ano nga ba laman nito
+## 🚀 Content
 If you’ve stumbled onto my profile, congrats kasi nahanap mo ang aking Old Testaments. Specifically,
 ✨ **Old finals for Benilde coding subjects** ✨  
 
@@ -30,9 +30,9 @@ Sana nag music nalang ako.
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Links and Stuff
 
-<p align="center">
+<p align="left">
   <a href="https://youtube.com/vinsonja">
     <img src="https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube" />
   </a>
