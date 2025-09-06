@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Content
-If you’ve stumbled onto my profile, congrats kasi nahanap mo ang aking Old Testaments. Specifically,
+If you’ve stumbled onto my profile, congrats kasi nahanap mo ang Information Systems Old Testaments. Specifically,
 ✨ **Old finals for Benilde coding subjects** ✨  
 
 This profile just contains **final projects**, assignments, and others for uni.  
