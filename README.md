@@ -15,6 +15,7 @@ If you’ve stumbled onto my profile, congrats kasi nahanap mo ang Old Testament
 This profile just contains **final projects**, assignments, and others for uni.  
 
 > ⚠️ Honest disclaimer: I **hate coding sm**. This is more like my school stuff rather than a portfolio.  
+> *"eh bat ka nag Information Systems?"* kasi **di ako pinayagan mag music**.  
 
 💀 All of the projects here were **done solo** kasi bobo mga kagroup ko 95% of the time.  
 
@@ -65,7 +66,7 @@ I started learning the **guitar in 2016**, got into **music production in 2020**
 
 ---
 
-### 🎤 Top 5 Favorite Artists OAT
+### 🎤 Top 5 Artists  
 - Patrick Bartley  
 - Mitsukiyo  
 - Anri  
