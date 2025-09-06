@@ -67,7 +67,7 @@ I started learning the **guitar in 2016**, got into **music production in 2020**
 
 ---
 
-### 🎤 Top 5 Artists  
+### 🎤 My Top 5 Artists (kahit wala nagtanong)
 - Patrick Bartley  
 - Mitsukiyo  
 - Anri  
