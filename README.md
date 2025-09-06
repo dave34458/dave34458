@@ -64,15 +64,6 @@ Started guitar in **2016**, music production in **2020** (thanks to OSTs), now f
 
 ---
 
-### 🎤 Top 5 Artists (kahit wala nagtanong)
-- Patrick Bartley  
-- Mitsukiyo  
-- Anri  
-- Casiopea  
-- Renzo Biruar  
-
----
-
 ## 📫 Links  
 
 <p align="left">
