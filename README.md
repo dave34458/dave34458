@@ -30,7 +30,7 @@ All projects here were **done solo**.
 ---
 
 ## 🎶 Music  
-This is what I actually care about. Outside school, I make music:  
+Sa wakas tapos na ung coding part. Outside school, I make music:  
 
 🎚️ Mixing & Mastering Engineer  
 🎸 Session Guitarist  
