@@ -2,37 +2,36 @@
 
 <p align="center">
   🎓 BS-Information Systems @ <b>DLS-CSB</b><br>
-  💡 Former full scholar in Electrical Engineering @ Mapúa. Transferred cause <b>EE fucking sucks 🖕</b><br>
+  💡 Former full scholar in Electrical Engineering @ Mapúa. Transferred bcs i hate EE</b><br>
   🎵 Musician • Audio Engineer • Session Guitarist
 </p>
 
 ---
 
-## 🚀 Content
-If you’ve stumbled onto my profile, congrats kasi nahanap mo ang Old Testaments. Specifically,  
-✨ **Old finals for Benilde coding subjects** ✨  
+## 🚀 Boring Coding Stuff
+If you’ve stumbled onto my profile, congrats kasi nahanap mo ang OTs. iykyk.
 
 This profile just contains **final projects**, assignments, and others for uni.  
 
 > ⚠️ Honest disclaimer: I **hate coding sm**. This is more like my school stuff rather than a portfolio.  
 > *"eh bat ka nag Information Systems?"* kasi **di ako pinayagan mag music**.  
 
-💀 All of the projects here were **done solo** kasi bobo mga kagroup ko 95% of the time.  
+All of the projects here were **done solo**.  
 
 ---
 
-## 🖥️ Languages & Skills
+## 🖥️ Boring Coding Languages & Skills
 - Python, C#, JavaScript, HTML, CSS  
-- SQL  
+- SQL
 - .NET, Django, Kotlin, Google Colab  
 - Git/GitHub  
-- Problem Solving (kasi minsan masaya mag LeetCode mediums)  
+- Problem Solving (LeetCode)  
 
 ---
 
 ## 🎶 Music  
 
-I’d rather you check out my **music portfolio**.  
+I’d rather you check out my **music portfolio** than boring coding stuff.  
 Outside of school, I make music:  
 
 🎚️ Mixing & Mastering Engineer  
@@ -76,11 +75,7 @@ I started learning the **guitar in 2016**, got into **music production in 2020**
 
 ---
 
-> Sana nag-music nalang ako. 🎶  
-
----
-
-## 📫 Links and Stuff
+## 📫 Links
 
 <p align="left">
   <a href="https://youtube.com/vinsonja">
