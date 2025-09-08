@@ -44,7 +44,7 @@ Started guitar in **2016**, music production in **2020** (thanks to OSTs), now f
 
 **Playing & Composing**  
 - Compose for almost anything  
-- Advanced music theory (but can’t sight-read 🤷)  
+- Advanced music theory (but can't read sheets🤷)  
 - Guitarist 🎸  
 
 **Production & Engineering**  
