@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm vinson 👋</h1>
+<h1 align="center">Hi, I'm vinson</h1>
 
 <p align="center">
   🎓 BS Information Systems @ <b>DLS-CSB</b><br>
-  💡 Former full scholar in Electrical Engineering @ Mapúa (transferred because I hated EE)</b><br>
+  💡 Former full scholar in Electrical Engineering @ Mapúa (transferred because I fucking hate engineering 🖕🖕)</b><br>
   🎵 Musician • Audio Engineer • Session Guitarist
 </p>
 
@@ -44,8 +44,8 @@ Started guitar in **2016**, music production in **2020** (thanks to OSTs), now f
 
 **Playing & Composing**  
 - Compose for almost anything  
-- Advanced music theory (but can't read sheets🤷)  
-- Guitarist 🎸  
+- Advanced music theory (but can’t sight-read 🖕)  
+- Guitarist  
 
 **Production & Engineering**  
 - DAWs: **FL Studio, Reaper, Cubase**  
